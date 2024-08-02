@@ -6,18 +6,32 @@ Only for the use of Featuretools:
 Python (3.10.13) was used as a language for Featuretools, and used packages were featuretools (1.27.0), numpy (1.24.4), and pandas (2.1.1).
 
 Table of contents
+
 • Gaussian/
+
   • example_input: Examples of Gaussian input files for different calculations.
+
   • xyz: XYZ files after geometry optimization.
 • ML/
+
   • Conventional_ML
+
     • Lasso: Code and results for Lasso regression.
+    
     • RF: Code and results for random forest.
+    
     • RF_control: Code and results for control experiments (random forest).
+    
     • SVM: Code and results for support-vector machine.
+    
     • XGB: Code and results for XGboost.
+  
   • DA1: Code and main results of domain adaptation.
+  
   • DA2: Code and results of domain adaptation when using 10 data points as a training set.
+  
   • DA3: Code and results of domain adaptation for alkene photoisomelization.
+  
   • DA_SI: Code and results of domain adaptation for supporting information.
+  
   • Make_descriptors: Code for generating descriptors.
