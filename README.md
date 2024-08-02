@@ -5,9 +5,9 @@ Python (3.7.16) was used as a language for the general machine-learning study, a
 Only for the use of Featuretools:
 Python (3.10.13) was used as a language for Featuretools, and used packages were featuretools (1.27.0), numpy (1.24.4), and pandas (2.1.1).
 
-
-
-Table of contents
+==================
+Table of Contents
+==================
 
 • Gaussian/
 
