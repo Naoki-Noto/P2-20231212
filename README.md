@@ -16,15 +16,15 @@ Python (3.10.13) was used as a language for Featuretools, and used packages were
 
   • Conventional_ML
 
-    - Lasso: Code and results for Lasso regression.
+  - Lasso: Code and results for Lasso regression.
     
-    - RF: Code and results for random forest.
+  - RF: Code and results for random forest.
     
-    - RF_control: Code and results for control experiments (random forest).
+  - RF_control: Code and results for control experiments (random forest).
+      
+  - SVM: Code and results for support-vector machine.
     
-    - SVM: Code and results for support-vector machine.
-    
-    - XGB: Code and results for XGboost.
+  - XGB: Code and results for XGboost.
   
   • DA1: Code and main results of domain adaptation.
   
