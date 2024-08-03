@@ -12,6 +12,9 @@ Python (3.10.13) was used as a language for Featuretools, and used packages were
   • example_input: Examples of Gaussian input files for different calculations.
 
   • xyz: XYZ files after geometry optimization.
+
+==============================================================================
+  
 • ML/
 
   • Conventional_ML
