@@ -7,7 +7,7 @@ Python (3.10.13) was used as a language for Featuretools, and used packages were
 
 # Table of Contents
 
-• Gaussian/
+Gaussian/
 
   • example_input: Examples of Gaussian input files for different calculations.
 
@@ -15,7 +15,7 @@ Python (3.10.13) was used as a language for Featuretools, and used packages were
 
 ==============================================================================
   
-• ML/
+ML/
 
   • Conventional_ML
 
