@@ -38,17 +38,17 @@ ML/
   
   • DA3_(C4_12): Code and results of domain adaptation for alkene photoisomerization.
 
-  - Alkene_isomerization_8OPSs: Code and results for domain adaptation in CN.
+  - Alkene_isomerization_8OPSs: Code and results for predictions in alkene isomerization by domain adaptation using 8 OPSs as the training set.
     
-  - Alkene_isomerization_DA: Code and results for domain adaptation in CO_a.
+  - Alkene_isomerization_DA: Code and results for predictions in alkene isomerization by domain adaptation.
       
-  - Alkene_isomerization_RF: Code and results for domain adaptation in CO_b.
+  - Alkene_isomerization_RF: Code and results for predictions in alkene isomerization by random forest.
     
-  - Alkene_isomerization_badcase: Code and results for domain adaptation in CO_c.
+  - Alkene_isomerization_badcase: Code and results for predictions in alkene isomerization by domain adaptation using the source domain with photocatalytic activity trends less similar to the target domain.
 
-  - Correlation_analysis: Code and results for domain adaptation in CO_d.
+  - Correlation_analysis: Code and results for the correlation analysis.
     
-  - Learning_curve: Code and results for domain adaptation in CO_e.
+  - Learning_curve: Code and results for generating learning curves to investigate generalization performance.
   
   • DA4_(C9_10_15): Code and results of investigations into the limitation and applicability of domain adaptation.
   
@@ -69,6 +69,12 @@ ML/
   - SD_data_exclusion: Code and results for investigations into the influence of excluding 30 OPSs from the source domain.
   
   • DA_SI_(C3_5_13): Code and results of domain adaptation for supporting information.
+  
+  - Comparison_method: Code and results for comparison of DA methods.
+    
+  - Increasing_training_data: Code and results for the test with larger training datasets.
+      
+  - Top3_and_bottom3: Code and results for domain adaptation using source domains selected based on correlation coefficients among OPSs in the training data.
 
   • Data_volume_(C8): Code and results of investigations into the effect of increasing the data volume (but not domain adaptation).
   
