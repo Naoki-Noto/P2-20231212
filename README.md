@@ -30,14 +30,56 @@ ML/
       
   - SVM: Code and results for support-vector machine.
     
-  - XGB: Code and results for XGboost.
+  - XGB: Code and results for XGBoost.
   
   • DA1: Code and main results of domain adaptation.
   
   • DA2: Code and results of domain adaptation when using 10 data points as a training set.
   
-  • DA3: Code and results of domain adaptation for alkene photoisomelization.
+  • DA3_(C4_12): Code and results of domain adaptation for alkene photoisomerization.
+
+  - Alkene_isomerization_8OPSs: Code and results for domain adaptation in CN.
+    
+  - Alkene_isomerization_DA: Code and results for domain adaptation in CO_a.
+      
+  - Alkene_isomerization_RF: Code and results for domain adaptation in CO_b.
+    
+  - Alkene_isomerization_badcase: Code and results for domain adaptation in CO_c.
+
+  - Correlation_analysis: Code and results for domain adaptation in CO_d.
+    
+  - Learning_curve: Code and results for domain adaptation in CO_e.
   
-  • DA_SI: Code and results of domain adaptation for supporting information.
+  • DA4_(C9_10_15): Code and results of investigations into the limitation and applicability of domain adaptation.
+  
+  - CN: Code and results for domain adaptation in CN.
+    
+  - CO_a: Code and results for domain adaptation in CO_a.
+      
+  - CO_b: Code and results for domain adaptation in CO_b.
+    
+  - CO_c: Code and results for domain adaptation in CO_c.
+
+  - CO_d: Code and results for domain adaptation in CO_d.
+    
+  - CO_e: Code and results for domain adaptation in CO_e.
+      
+  - CS: Code and results for domain adaptation in CS.
+    
+  - SD_data_exclusion: Code and results for investigations into the influence of excluding 30 OPSs from the source domain.
+  
+  • DA_SI_(C3_5_13): Code and results of domain adaptation for supporting information.
+
+  • Data_volume_(C8): Code and results of investigations into the effect of increasing the data volume (but not domain adaptation).
+  
+  - Lasso: Code and results for Lasso regression.
+    
+  - RF: Code and results for random forest.
+      
+  - SVM: Code and results for support-vector machine.
+    
+  - XGB: Code and results for XGBoost.
   
   • Make_descriptors: Code for generating descriptors.
+
+  • Paired_t-test: Code and results of paired t-test.
