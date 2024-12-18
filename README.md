@@ -6,7 +6,7 @@ For the use of Featuretools (featuretools.yml):
 Python (3.10.13) was used as a language for Featuretools, and used packages were featuretools (1.27.0), numpy (1.24.4), and pandas (2.1.1).
 
 For performing XGBoost (xgboost.yml):
-Python (3.10.13) was used as a language for Featuretools, and used packages were pandas (2.2.2), scikit-learn (1.0.2), and xgboost (2.1.2).
+Python (3.10.13) was used as a language for performing XGBoost, and used packages were pandas (2.2.2), scikit-learn (1.0.2), and xgboost (2.1.2).
 
 # Table of Contents
 
