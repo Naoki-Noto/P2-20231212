@@ -15,6 +15,8 @@ author={Naoki Noto, Ryuga Kunisada, Tabea Rohlfs, Manami Hayashi, Ryosuke Kojima
 
 journal info={Nat. Commun. 2025, 16, Article number: 3388.}
 
+DOI={https://www.nature.com/articles/s41467-025-58687-5}
+
 # Table of Contents
 
 Gaussian/
