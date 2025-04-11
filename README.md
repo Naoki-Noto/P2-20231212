@@ -8,6 +8,13 @@ Python (3.10.13) was used as a language for Featuretools, and used packages were
 For performing XGBoost (xgboost.yml):
 Python (3.10.13) was used as a language for performing XGBoost, and used packages were pandas (2.2.2), scikit-learn (1.0.2), and xgboost (2.1.2).
 
+# Citation Information
+title={Transfer learning across different photocatalytic organic reactions}
+
+author={Naoki Noto, Ryuga Kunisada, Tabea Rohlfs, Manami Hayashi, Ryosuke Kojima, Olga García Mancheño, Takeshi Yanai, Susumu Saito }
+
+journal info={Nat. Commun. 2025, 16, Article number: 3388.}
+
 # Table of Contents
 
 Gaussian/
